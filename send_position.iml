@@ -8,6 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="json-20220924" level="project" />
-    <orderEntry type="library" name="locationtech.proj4j" level="application" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="locationtech.proj4j" level="application" />
   </component>
 </module>
