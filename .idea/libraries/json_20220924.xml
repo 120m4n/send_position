@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="json-20220924">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/json-20220924.jar!/" />
+      <root url="jar://$PROJECT_DIR$/geotrellis-proj4_2.13-3.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://github.com/locationtech/proj4j" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
