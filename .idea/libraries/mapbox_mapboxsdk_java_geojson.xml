@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mapbox.mapboxsdk.java.geojson" type="repository">
+    <properties maven-id="com.mapbox.mapboxsdk:mapbox-java-geojson:2.2.10" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mapbox/mapboxsdk/mapbox-java-geojson/2.2.10/mapbox-java-geojson-2.2.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/mapbox/mapboxsdk/mapbox-java-core/2.2.10/mapbox-java-core-2.2.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

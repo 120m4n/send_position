@@ -2,7 +2,6 @@
   <library name="json-20220924">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/json-20220924.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/proj4j-1.1.5.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

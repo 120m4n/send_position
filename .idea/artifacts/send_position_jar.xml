@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="send_position:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/send_position_jar</output-path>
+    <root id="archive" name="send_position.jar">
+      <element id="module-output" name="send_position" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/json-20220924.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mapbox/mapboxsdk/mapbox-java-geojson/2.2.10/mapbox-java-geojson-2.2.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mapbox/mapboxsdk/mapbox-java-core/2.2.10/mapbox-java-core-2.2.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/locationtech/proj4j/proj4j/1.1.5/proj4j-1.1.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -3,6 +3,8 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
+        int invertalArg = 600;
+
         String end_point = Utils.getEnv("END_POINT");
         // check if end point is set otherwise exit
         if (end_point == null) {
@@ -18,13 +20,8 @@ public class Main {
         String userid = userids[(int) (Math.random() * userids.length)];
         String fleet = fleets[(int) (Math.random() * fleets.length)];
 
-        // create a random position lat in range 7.11 and 7.13 with 4 decimals
-        double lat = 7.11 + (7.13 - 7.11) * Math.random();
-        lat = Math.round(lat * 10000.0) / 10000.0;
-
-        // create a random position lon in range -73.11 and -73.13 with 4 decimals
-        double lon = -73.11 + (-73.13 + 73.11) * Math.random();
-        lon = Math.round(lon * 10000.0) / 10000.0;
+        double lat = 0;
+        double lon = 0;
 
         // create a position object
         PositionObj position = new PositionObj(lat, lon, fleet, userid);
